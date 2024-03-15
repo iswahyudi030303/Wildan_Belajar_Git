@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "Guido van Rossum",
+        "year": 2022
+    },
+    {
+        "title": "JavaScript Basics",
+        "author": "John Doe",
+        "year": 2021
+    },
+    {
+        "title": "Java Fundamentals",
+        "author": "Jane Smith",
+        "year": 2020
+    },
+    {
+        "title": "Belajar Sepakbola Part 1",
+        "author": "Wildan Iswahyudi",
+        "year": "2023"
+    }
+]
